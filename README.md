@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Adhishta Sharma</h1>
 <h3 align="center">An enthusiastic and math savvy data analyst</h3>
 
