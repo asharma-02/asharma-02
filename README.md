@@ -1,8 +1,4 @@
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">
 <h1 align="center">Hi 👋, I'm Adhishta Sharma</h1>
 <h3 align="center">An enthusiastic and math savvy data analyst</h3>
 
