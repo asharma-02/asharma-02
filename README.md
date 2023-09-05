@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm Adhishta Sharma</h1>
 <h3 align="center">An enthusiastic and math savvy data analyst</h3>
 
